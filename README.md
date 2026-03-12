@@ -1,3 +1,4 @@
+![logo](https://github.com/shivangiraj8900/shivangiraj8900/blob/main/WhatsApp%20Image%202026-03-12%20at%2015.57.59.jpeg)
 <h1 align="center">Hi 👋, I'm Shivangi Raj</h1>
 
 <h3 align="center">💻 Web Development Enthusiast | 🔐 Cybersecurity Learner</h3>
